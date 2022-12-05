@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875363443080",
+    "project_id": "mtlogibapp",
+    "storage_bucket": "mtlogibapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875363443080:android:26d59f84ca099299849a3d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875363443080-q716vdel5a8m2ikr63t7b1e9kicfvosh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPIvS5CG1ZSkjrJMHFpYRt55F_1OpZmjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875363443080-q716vdel5a8m2ikr63t7b1e9kicfvosh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
